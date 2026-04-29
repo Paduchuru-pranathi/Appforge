@@ -1,4 +1,4 @@
-// File: C:\Users\PRANATHI\Downloads\appforge_final\appforge\frontend\src\app\dashboard\apps\new\page.tsx
+// File: C:\Users\PRANATHI\Downloads\Appforge\frontend\src\app\dashboard\apps\new\page.tsx
 import * as entry from '../../../../../../src/app/dashboard/apps/new/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
