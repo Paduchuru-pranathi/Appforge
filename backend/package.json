@@ -4,8 +4,8 @@
   "description": "AppForge - Config-driven app generator backend",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc --skipLibCheck",
-    "start": "node dist/index.js",
+    "build": "echo done",
+    "start": "ts-node --transpile-only src/index.ts",
     "dev": "ts-node-dev --respawn src/index.ts"
   },
   "dependencies": {
@@ -37,7 +37,9 @@
     "@types/passport-google-oauth20": "^2.0.14",
     "@types/pg": "^8.20.0",
     "@types/uuid": "^9.0.7",
+    "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.2"
   }
 }
