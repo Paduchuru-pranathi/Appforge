@@ -1,3 +1,4 @@
+/// <reference lib="dom" />
 import { pool } from '../config/database';
 
 class NotificationService {
