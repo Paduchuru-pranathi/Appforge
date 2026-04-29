@@ -4,7 +4,7 @@
   "description": "AppForge - Config-driven app generator backend",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --skipLibCheck",
     "start": "node dist/index.js",
     "dev": "ts-node-dev --respawn src/index.ts"
   },
