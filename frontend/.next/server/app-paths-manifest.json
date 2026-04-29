@@ -2,10 +2,10 @@
   "/_not-found": "app/_not-found.js",
   "/auth/callback/page": "app/auth/callback/page.js",
   "/login/page": "app/login/page.js",
-  "/register/page": "app/register/page.js",
   "/page": "app/page.js",
-  "/dashboard/apps/new/page": "app/dashboard/apps/new/page.js",
-  "/dashboard/apps/[id]/page": "app/dashboard/apps/[id]/page.js",
+  "/register/page": "app/register/page.js",
+  "/dashboard/apps/[id]/edit/page": "app/dashboard/apps/[id]/edit/page.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/apps/[id]/edit/page": "app/dashboard/apps/[id]/edit/page.js"
+  "/dashboard/apps/new/page": "app/dashboard/apps/new/page.js",
+  "/dashboard/apps/[id]/page": "app/dashboard/apps/[id]/page.js"
 }
